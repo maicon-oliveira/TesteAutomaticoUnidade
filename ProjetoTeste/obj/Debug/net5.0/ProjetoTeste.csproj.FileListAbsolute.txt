@@ -1,0 +1,12 @@
+C:\Users\MAICON\source\repos\ProjetoTeste\ProjetoTeste\bin\Debug\net5.0\ProjetoTeste.deps.json
+C:\Users\MAICON\source\repos\ProjetoTeste\ProjetoTeste\bin\Debug\net5.0\ProjetoTeste.dll
+C:\Users\MAICON\source\repos\ProjetoTeste\ProjetoTeste\bin\Debug\net5.0\ref\ProjetoTeste.dll
+C:\Users\MAICON\source\repos\ProjetoTeste\ProjetoTeste\bin\Debug\net5.0\ProjetoTeste.pdb
+C:\Users\MAICON\source\repos\ProjetoTeste\ProjetoTeste\obj\Debug\net5.0\ProjetoTeste.csproj.AssemblyReference.cache
+C:\Users\MAICON\source\repos\ProjetoTeste\ProjetoTeste\obj\Debug\net5.0\ProjetoTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAICON\source\repos\ProjetoTeste\ProjetoTeste\obj\Debug\net5.0\ProjetoTeste.AssemblyInfoInputs.cache
+C:\Users\MAICON\source\repos\ProjetoTeste\ProjetoTeste\obj\Debug\net5.0\ProjetoTeste.AssemblyInfo.cs
+C:\Users\MAICON\source\repos\ProjetoTeste\ProjetoTeste\obj\Debug\net5.0\ProjetoTeste.csproj.CoreCompileInputs.cache
+C:\Users\MAICON\source\repos\ProjetoTeste\ProjetoTeste\obj\Debug\net5.0\ProjetoTeste.dll
+C:\Users\MAICON\source\repos\ProjetoTeste\ProjetoTeste\obj\Debug\net5.0\ref\ProjetoTeste.dll
+C:\Users\MAICON\source\repos\ProjetoTeste\ProjetoTeste\obj\Debug\net5.0\ProjetoTeste.pdb
